@@ -5,6 +5,6 @@ Permission: admin.giveweapons
 
 /giveweapon <weapon (WEAPON_xxxxx)> (ammo)
 
-By default you get 100 ammo, you cand use /giveweapon <weapon (WEAPON_xxxxx)> (ammo) if you want another number.
+By default/if you dont type an ammo value you get 100 ammo.
 
 Weapon list: https://forum.cfx.re/t/list-of-weapon-spawn-names-after-hours/90750
