@@ -3,7 +3,7 @@ Simple Scripts - 01
 
 Permission: admin.giveweapons
 
-/giveweapon <weapon (WEAPON_xxxxx)>
+/giveweapon <weapon (WEAPON_xxxxx)> (ammo)
 
 By default you get 100 ammo, you cand use /giveweapon <weapon (WEAPON_xxxxx)> (ammo) if you want another number.
 
