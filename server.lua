@@ -2,7 +2,7 @@ local Tunnel = module("vrp", "lib/Tunnel")
 local Proxy = module("vrp", "lib/Proxy")
 
 vRP = Proxy.getInterface("vRP")
-vRPclient = Tunnel.getInterface("vRP","vrp_give_weapons")
+vRPclient = Tunnel.getInterface("vRP","vrp_giveweapon")
 
 RegisterCommand("giveweapon", function(player, args)
     local user_id = vRP.getUserId({player})
