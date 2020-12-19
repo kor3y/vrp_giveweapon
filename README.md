@@ -1,5 +1,4 @@
 # vrp_giveweapon
-Simple Scripts - 01
 
 Permission: admin.giveweapons
 
